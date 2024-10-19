@@ -3,4 +3,7 @@
 shell scripting, we learn bash shell scripting
 
 
-hello kishore....
+
+List of topics:
+1) github
+2) bash shell
