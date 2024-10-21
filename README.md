@@ -11,3 +11,7 @@ List of topics:
 4) Jenkins
 5) Kubernetes
 6) Terraform
+7) Java
+8) Oracle
+9) C
+10) C++
